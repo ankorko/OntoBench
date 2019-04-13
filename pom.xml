@@ -120,7 +120,7 @@
 							<goal>install-node-and-npm</goal>
 						</goals>
 						<configuration>
-							<nodeVersion>v4.3.0</nodeVersion>
+							<nodeVersion>v4.5.0</nodeVersion>
 							<npmVersion>2.14.12</npmVersion>
 						</configuration>
 					</execution>
